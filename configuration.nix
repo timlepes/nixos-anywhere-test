@@ -19,7 +19,7 @@
 
   users.users.root.openssh.authorizedKeys.keys = [
     # change this to your ssh key
-    "CHANGE"
+    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMSGGKaxDZgtn/VK7YfkBWDNJjK7lnsnrNt94l8dZgjz talltowntech tlepes@framework"
   ];
 
   system.stateVersion = "23.11";
