@@ -30,7 +30,7 @@
             #     type = "swap";
             #     randomEncryption = true;
             #   };
-            };
+            # };
             plainSwap = {
               size = "100%";
               content = {
